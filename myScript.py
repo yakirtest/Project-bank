@@ -31,20 +31,3 @@ if __name__ == '__main__':
     print(f"median:{med}\n")
     print(f"percent 90:{percent90}\n")
     print(f"percent10:{percent10}\n")
-
-
-
-
-
-
-
-    # print(accs)
-
-    # if len(sys.argv)==2:
-    #     bank_branch=Bank(Bank.load_and_parse_init_data(sys.argv[1]))
-    #     print(bank_branch)
-    #
-    # else:
-    #     sys.exit(Red("Error You must submit two arguments"
-    #                  "\n 2 arguments [-f] and path of a file .txt"))
-    #
