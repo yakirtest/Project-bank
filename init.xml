@@ -1,0 +1,43 @@
+<accounts>
+    <account type="StudentBankAccount">
+        <personalInfo>
+            <name>Katia Barak</name>
+            <id>1234567890</id>
+            <phone>0523-555444</phone>
+            <email>katiab@sela.co.il</email>
+        </personalInfo>
+        <balance>1000</balance>
+        <line_of_credit>0</line_of_credit>
+        <college>Sela</college>
+    </account>
+
+    <account type="BankAccount">
+        <personalInfo>
+            <name>Tal Cohen</name>
+            <id>2233445566</id>
+            <phone>0546-222333</phone>
+            <email>talc@gamil.com</email>
+        </personalInfo>
+        <balance>11000</balance>
+        <lineOfCredit>5000</lineOfCredit>
+    </account>
+
+    <account type="BusinessBankAccount">
+        <personalInfo>
+            <name>yakir panker</name>
+            <id>9876543210</id>
+            <phone>0546-222333</phone>
+            <email>yakir@gamil.com</email>
+        </personalInfo>
+        <balance>111000</balance>
+        <line_of_credit>10000</line_of_credit>
+        <businessInfo>
+            <businessName>Coffee Coffee</businessName>
+            <city>Afula</city>
+            <address>Herzl 19</address>
+            <Landline >04-6785934</Landline >
+            <typeCode>1</typeCode>
+        </businessInfo>
+    </account>
+
+</accounts>
